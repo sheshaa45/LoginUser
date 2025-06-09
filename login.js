@@ -1,1 +1,3 @@
 cy.vist("/login")
+cy.get("#username").type("sheshaa")
+cy.get("#password").type("Sheshaa@45")
