@@ -1,0 +1,1 @@
+cy.vist("/login")
